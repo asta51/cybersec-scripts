@@ -27,3 +27,16 @@ Python script to find directories.
 ```
 python3 dir_enum.py http://example.com/
 ```
+# Port Scanner
+A simple python tool to scan ports.
+## Usage
+```
+python3 port_scan.py
+```
+# Arp Scanner
+Python arp scanner.
+## Usage
+```
+python3 arp_scan.py
+```
+
