@@ -15,3 +15,9 @@ Python script to crack MD5
 ```
 python3 crack_hash.py
 ```
+# SSH Brutefoce
+A python script to bruteforce ssh
+## Usage
+```
+python3 ssh_brut.py
+```
